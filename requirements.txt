@@ -1,4 +1,4 @@
 crewai
 langchain_openai
 streamlit
-dotenv
+python-dotenv
