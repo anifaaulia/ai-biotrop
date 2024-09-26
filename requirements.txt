@@ -2,3 +2,5 @@ crewai
 langchain_openai
 streamlit
 dotenv
+os
+pydantic
