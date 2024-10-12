@@ -1,8 +1,7 @@
 langchain
 crewai
-⁠streamlit
-⁠os
-⁠pydantic
-tavily
+streamlit
+pydantic
+tavily-python
 crewai_tools
 langchain_community
