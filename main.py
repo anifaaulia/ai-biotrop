@@ -32,7 +32,7 @@ def main():
     st.markdown(f"""
         <style>
         .Logo {{
-            width: 25vw;
+            width: 30vw;
         }}
         </style>
         <img src="data:image/png;base64,{image_base64}" class="Logo">

@@ -1,5 +1,0 @@
-crewai
-langchain_openai
-streamlit
-python-dotenv
-langchain-community
